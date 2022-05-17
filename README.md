@@ -23,7 +23,7 @@ Save the data to the file.
 Developed By: R.SOMEASVAR
 Register No: 212221230103
 ```
-# titanic-Picture.csv
+# titanic-Picture.csv:
 ```
 import pandas as pd  
 import numpy as np  
@@ -111,7 +111,7 @@ df
 ![output](./Titanic-Pictures/o10.png)
 ![output](./Titanic-Pictures/o11.png)
 ![output](./Titanic-Pictures/o12.png)
-## QUANTILE TRANSFORMATION
+## QUANTILE TRANSFORMATION:
 ![output](./Titanic-Pictures/o13.png)
 ![output](./Titanic-Pictures/o14.png)
 ![output](./Titanic-Pictures/o15.png)
@@ -120,7 +120,7 @@ df
 ![output](./Titanic-Pictures/o17.png)
 ![output](./Titanic-Pictures/o19.png)
 
-# data_to_transform.csv
+# data_to_transform.csv:
 ```
 import pandas as pd  
 import numpy as np  
