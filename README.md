@@ -20,10 +20,8 @@ Save the data to the file.
 
 # CODE:
 ```
-
 Developed By: R.SOMEASVAR
 Register No: 212221230103
-
 ```
 # titanic-Picture.csv
 ```
